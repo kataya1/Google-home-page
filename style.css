@@ -21,6 +21,7 @@ svg {
     fill: currentColor;
     vertical-align: bottom;
     color: rgb(95, 99, 104);
+    cursor: pointer;
 }
 #profile-pic{
     padding-right: 0.5rem;
