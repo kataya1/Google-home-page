@@ -21,7 +21,6 @@ svg {
     fill: currentColor;
     vertical-align: bottom;
     color: rgb(95, 99, 104);
-    cursor: pointer;
 }
 #profile-pic{
     padding-right: 0.5rem;
@@ -30,6 +29,9 @@ svg {
     margin-left: 0.4rem;
     padding: 0.6rem;
     padding-right: 0.3rem;
+}
+#pento-svg:hover{
+    cursor: pointer;
 }
 .navigation{
     display: flex;
